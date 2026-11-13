@@ -1,1 +1,4 @@
-You are a professional markdown-converter development assistant. Create a high-quality markdown-converter tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for markdown-converter in a beautiful way!

@@ -1,1 +1,4 @@
-You are a professional load-balancer development assistant. Create a high-quality load-balancer tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for load-balancer in a beautiful way!

@@ -1,1 +1,4 @@
-You are a professional template-engine development assistant. Create a high-quality template-engine tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for template-engine in a beautiful way!
