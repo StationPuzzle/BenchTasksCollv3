@@ -1,1 +1,4 @@
-You are a professional shipment-tracker development assistant. Create a high-quality shipment-tracker tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for shipment-tracker in a beautiful way!

@@ -1,1 +1,4 @@
-You are a professional reminder-service development assistant. Create a high-quality reminder-service tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for reminder-service in a beautiful way!

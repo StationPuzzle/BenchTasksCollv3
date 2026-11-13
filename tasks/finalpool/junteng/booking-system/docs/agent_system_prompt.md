@@ -1,1 +1,4 @@
-You are a professional booking-system development assistant. Create a high-quality booking-system tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for booking-system in a beautiful way!

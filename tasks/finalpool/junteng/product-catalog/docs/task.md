@@ -1,1 +1,5 @@
-Please create a product-catalog tool for managing product catalogs.
+# Task: product-catalog
+
+## Description
+Complete the implementation for product-catalog
+

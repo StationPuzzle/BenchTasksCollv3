@@ -1,1 +1,5 @@
-Please create a contact-manager tool for managing contacts.
+# Task: contact-manager
+
+## Description
+Complete the implementation for contact-manager
+

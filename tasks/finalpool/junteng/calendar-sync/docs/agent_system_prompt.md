@@ -1,1 +1,4 @@
-You are a professional calendar-sync development assistant. Create a high-quality calendar-sync tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for calendar-sync in a beautiful way!

@@ -1,1 +1,5 @@
-Please create a booking-system tool for managing bookings.
+# Task: booking-system
+
+## Description
+Complete the implementation for booking-system
+

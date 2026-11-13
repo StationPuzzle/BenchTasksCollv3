@@ -1,1 +1,4 @@
-You are a professional order-processor development assistant. Create a high-quality order-processor tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for order-processor in a beautiful way!

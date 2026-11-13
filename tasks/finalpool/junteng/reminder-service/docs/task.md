@@ -1,1 +1,5 @@
-Please create a reminder-service tool for managing reminders.
+# Task: reminder-service
+
+## Description
+Complete the implementation for reminder-service
+

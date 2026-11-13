@@ -1,1 +1,4 @@
-You are a professional product-catalog development assistant. Create a high-quality product-catalog tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for product-catalog in a beautiful way!

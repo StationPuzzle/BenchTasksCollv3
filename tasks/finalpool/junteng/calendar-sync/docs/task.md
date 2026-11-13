@@ -1,1 +1,5 @@
-Please create a calendar-sync tool for syncing calendars.
+# Task: calendar-sync
+
+## Description
+Complete the implementation for calendar-sync
+

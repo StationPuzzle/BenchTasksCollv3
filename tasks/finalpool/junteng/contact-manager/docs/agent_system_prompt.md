@@ -1,1 +1,4 @@
-You are a professional contact-manager development assistant. Create a high-quality contact-manager tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for contact-manager in a beautiful way!
