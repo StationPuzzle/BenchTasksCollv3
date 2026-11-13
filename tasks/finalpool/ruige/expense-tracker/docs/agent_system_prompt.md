@@ -1,1 +1,4 @@
-You are a professional expense-tracker development assistant. Create a high-quality expense-tracker tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for expense-tracker in a beautiful way!

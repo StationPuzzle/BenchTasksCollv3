@@ -1,1 +1,4 @@
-You are a professional data-analytics development assistant. Create a high-quality data-analytics tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for data-analytics in a beautiful way!

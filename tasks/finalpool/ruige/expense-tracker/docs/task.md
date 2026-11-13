@@ -1,1 +1,5 @@
-Please create a expense-tracker tool for tracking expenses.
+# Task: expense-tracker
+
+## Description
+Complete the implementation for expense-tracker
+

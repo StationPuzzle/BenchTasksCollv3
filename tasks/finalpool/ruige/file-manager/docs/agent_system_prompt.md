@@ -1,1 +1,4 @@
-You are a professional file-manager development assistant. Create a high-quality file-manager tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for file-manager in a beautiful way!

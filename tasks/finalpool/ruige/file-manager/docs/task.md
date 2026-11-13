@@ -1,1 +1,5 @@
-Please create a file-manager tool for managing files.
+# Task: file-manager
+
+## Description
+Complete the implementation for file-manager
+
