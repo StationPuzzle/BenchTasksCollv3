@@ -1,1 +1,4 @@
-You are a professional deployment-tool development assistant. Create a high-quality deployment-tool tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for deployment-tool in a beautiful way!

@@ -1,1 +1,5 @@
-Please create a security-scanner tool for security scanning.
+# Task: security-scanner
+
+## Description
+Complete the implementation for security-scanner
+

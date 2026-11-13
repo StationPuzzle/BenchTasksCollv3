@@ -1,1 +1,5 @@
-Please create a error-tracker tool for tracking errors.
+# Task: error-tracker
+
+## Description
+Complete the implementation for error-tracker
+

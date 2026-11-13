@@ -1,1 +1,4 @@
-You are a professional backup-utility development assistant. Create a high-quality backup-utility tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for backup-utility in a beautiful way!

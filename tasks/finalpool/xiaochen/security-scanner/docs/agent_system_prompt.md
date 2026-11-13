@@ -1,1 +1,4 @@
-You are a professional security-scanner development assistant. Create a high-quality security-scanner tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for security-scanner in a beautiful way!

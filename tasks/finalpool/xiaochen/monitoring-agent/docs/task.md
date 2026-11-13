@@ -1,1 +1,5 @@
-Please create a monitoring-agent tool for system monitoring.
+# Task: monitoring-agent
+
+## Description
+Complete the implementation for monitoring-agent
+

@@ -1,1 +1,4 @@
-You are a professional monitoring-agent development assistant. Create a high-quality monitoring-agent tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for monitoring-agent in a beautiful way!

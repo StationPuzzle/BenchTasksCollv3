@@ -1,1 +1,4 @@
-You are a professional code-reviewer development assistant. Create a high-quality code-reviewer tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for code-reviewer in a beautiful way!
