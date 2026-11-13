@@ -1,1 +1,5 @@
-Please create a location-tracker tool for tracking locations.
+# Task: location-tracker
+
+## Description
+Complete the implementation for location-tracker
+

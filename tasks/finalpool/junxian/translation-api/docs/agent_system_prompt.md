@@ -1,1 +1,4 @@
-You are a professional translation-api development assistant. Create a high-quality translation-api tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for translation-api in a beautiful way!

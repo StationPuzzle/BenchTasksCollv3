@@ -1,1 +1,5 @@
-Please create a qr-generator tool for generating QR codes.
+# Task: qr-generator
+
+## Description
+Complete the implementation for qr-generator
+

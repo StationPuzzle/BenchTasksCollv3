@@ -1,1 +1,4 @@
-You are a professional location-tracker development assistant. Create a high-quality location-tracker tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for location-tracker in a beautiful way!

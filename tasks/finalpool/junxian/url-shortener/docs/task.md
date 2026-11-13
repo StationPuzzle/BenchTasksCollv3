@@ -1,1 +1,5 @@
-Please create a url-shortener tool for shortening URLs.
+# Task: url-shortener
+
+## Description
+Complete the implementation for url-shortener
+

@@ -1,1 +1,4 @@
-You are a professional qr-generator development assistant. Create a high-quality qr-generator tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for qr-generator in a beautiful way!

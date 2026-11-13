@@ -1,1 +1,4 @@
-You are a professional url-shortener development assistant. Create a high-quality url-shortener tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for url-shortener in a beautiful way!

@@ -1,1 +1,5 @@
-Please create a translation-api tool for translation services.
+# Task: translation-api
+
+## Description
+Complete the implementation for translation-api
+
