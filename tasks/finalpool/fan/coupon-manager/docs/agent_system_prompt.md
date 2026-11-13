@@ -1,1 +1,4 @@
-You are a professional coupon-manager development assistant. Create a high-quality coupon-manager tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for coupon-manager in a beautiful way!

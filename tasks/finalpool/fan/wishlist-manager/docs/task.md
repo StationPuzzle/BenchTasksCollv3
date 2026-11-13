@@ -1,1 +1,5 @@
-Please create a wishlist-manager tool for managing wishlists.
+# Task: wishlist-manager
+
+## Description
+Complete the implementation for wishlist-manager
+

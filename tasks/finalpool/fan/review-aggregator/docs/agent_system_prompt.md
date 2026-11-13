@@ -1,1 +1,4 @@
-You are a professional review-aggregator development assistant. Create a high-quality review-aggregator tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for review-aggregator in a beautiful way!

@@ -1,1 +1,5 @@
-Please create a price-tracker tool for tracking prices.
+# Task: price-tracker
+
+## Description
+Complete the implementation for price-tracker
+
