@@ -1,1 +1,5 @@
-Please create a feedback-collector tool for collecting feedback.
+# Task: feedback-collector
+
+## Description
+Complete the implementation for feedback-collector
+

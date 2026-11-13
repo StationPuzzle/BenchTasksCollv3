@@ -1,1 +1,5 @@
-Please create a chat-bot tool for automated conversations.
+# Task: chat-bot
+
+## Description
+Complete the implementation for chat-bot
+

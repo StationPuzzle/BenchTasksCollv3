@@ -1,1 +1,5 @@
-Please create a sentiment-analyzer tool for analyzing sentiment.
+# Task: sentiment-analyzer
+
+## Description
+Complete the implementation for sentiment-analyzer
+

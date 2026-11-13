@@ -1,1 +1,4 @@
-You are a professional chat-bot development assistant. Create a high-quality chat-bot tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for chat-bot in a beautiful way!

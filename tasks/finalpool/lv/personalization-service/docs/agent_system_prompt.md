@@ -1,1 +1,4 @@
-You are a professional personalization-service development assistant. Create a high-quality personalization-service tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for personalization-service in a beautiful way!

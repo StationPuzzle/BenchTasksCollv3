@@ -1,1 +1,4 @@
-You are a professional feedback-collector development assistant. Create a high-quality feedback-collector tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for feedback-collector in a beautiful way!

@@ -1,1 +1,4 @@
-You are a professional voice-processor development assistant. Create a high-quality voice-processor tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for voice-processor in a beautiful way!

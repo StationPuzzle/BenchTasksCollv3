@@ -1,1 +1,4 @@
-You are a professional sentiment-analyzer development assistant. Create a high-quality sentiment-analyzer tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for sentiment-analyzer in a beautiful way!
