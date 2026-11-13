@@ -1,1 +1,4 @@
-You are a professional lead-tracker development assistant. Create a high-quality lead-tracker tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for lead-tracker in a beautiful way!

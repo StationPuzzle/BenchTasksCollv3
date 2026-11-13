@@ -1,1 +1,5 @@
-Please create a deal-manager tool for managing deals.
+# Task: deal-manager
+
+## Description
+Complete the implementation for deal-manager
+

@@ -1,1 +1,5 @@
-Please create a sales-pipeline tool for managing sales pipelines.
+# Task: sales-pipeline
+
+## Description
+Complete the implementation for sales-pipeline
+

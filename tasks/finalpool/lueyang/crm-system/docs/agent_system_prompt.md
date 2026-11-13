@@ -1,1 +1,4 @@
-You are a professional crm-system development assistant. Create a high-quality crm-system tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for crm-system in a beautiful way!

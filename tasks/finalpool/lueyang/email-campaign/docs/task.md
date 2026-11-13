@@ -1,1 +1,5 @@
-Please create a email-campaign tool for managing email campaigns.
+# Task: email-campaign
+
+## Description
+Complete the implementation for email-campaign
+

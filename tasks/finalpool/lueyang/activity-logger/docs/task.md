@@ -1,1 +1,5 @@
-Please create a activity-logger tool for logging activities.
+# Task: activity-logger
+
+## Description
+Complete the implementation for activity-logger
+
