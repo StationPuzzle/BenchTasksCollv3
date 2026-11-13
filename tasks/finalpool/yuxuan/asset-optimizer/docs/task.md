@@ -1,1 +1,5 @@
-Please create a asset-optimizer tool for optimizing assets.
+# Task: asset-optimizer
+
+## Description
+Complete the implementation for asset-optimizer
+

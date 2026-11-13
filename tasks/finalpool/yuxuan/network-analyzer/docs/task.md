@@ -1,1 +1,5 @@
-Please create a network-analyzer tool for analyzing networks.
+# Task: network-analyzer
+
+## Description
+Complete the implementation for network-analyzer
+

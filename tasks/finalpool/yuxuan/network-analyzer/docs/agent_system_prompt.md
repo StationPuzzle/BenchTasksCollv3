@@ -1,1 +1,4 @@
-You are a professional network-analyzer development assistant. Create a high-quality network-analyzer tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for network-analyzer in a beautiful way!

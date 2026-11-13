@@ -1,1 +1,4 @@
-You are a professional task-scheduler development assistant. Create a high-quality task-scheduler tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for task-scheduler in a beautiful way!

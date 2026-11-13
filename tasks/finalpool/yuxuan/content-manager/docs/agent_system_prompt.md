@@ -1,1 +1,4 @@
-You are a professional content-manager development assistant. Create a high-quality content-manager tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for content-manager in a beautiful way!

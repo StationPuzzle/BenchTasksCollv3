@@ -1,1 +1,5 @@
-Please create a content-manager tool for managing content.
+# Task: content-manager
+
+## Description
+Complete the implementation for content-manager
+
