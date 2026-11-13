@@ -1,1 +1,4 @@
-You are a professional blog-engine development assistant. Create a high-quality blog-engine tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for blog-engine in a beautiful way!

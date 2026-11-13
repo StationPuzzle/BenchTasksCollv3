@@ -1,1 +1,4 @@
-You are a professional cms-builder development assistant. Create a high-quality cms-builder tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for cms-builder in a beautiful way!

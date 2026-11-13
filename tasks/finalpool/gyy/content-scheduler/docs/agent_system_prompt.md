@@ -1,1 +1,4 @@
-You are a professional content-scheduler development assistant. Create a high-quality content-scheduler tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for content-scheduler in a beautiful way!

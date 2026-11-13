@@ -1,1 +1,5 @@
-Please create a social-publisher tool for publishing social content.
+# Task: social-publisher
+
+## Description
+Complete the implementation for social-publisher
+

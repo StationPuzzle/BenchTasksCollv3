@@ -1,1 +1,5 @@
-Please create a content-scheduler tool for scheduling content.
+# Task: content-scheduler
+
+## Description
+Complete the implementation for content-scheduler
+

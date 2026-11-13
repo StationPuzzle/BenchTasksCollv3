@@ -1,1 +1,5 @@
-Please create a comment-moderator tool for moderating comments.
+# Task: comment-moderator
+
+## Description
+Complete the implementation for comment-moderator
+

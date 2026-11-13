@@ -1,1 +1,4 @@
-You are a professional social-publisher development assistant. Create a high-quality social-publisher tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for social-publisher in a beautiful way!
