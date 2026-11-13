@@ -1,1 +1,4 @@
-You are a professional document-parser development assistant. Create a high-quality document-parser tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for document-parser in a beautiful way!

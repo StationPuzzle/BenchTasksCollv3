@@ -1,1 +1,5 @@
-Please create a image-processor tool for processing images.
+# Task: image-processor
+
+## Description
+Complete the implementation for image-processor
+

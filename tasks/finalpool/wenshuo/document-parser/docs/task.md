@@ -1,1 +1,5 @@
-Please create a document-parser tool for parsing documents.
+# Task: document-parser
+
+## Description
+Complete the implementation for document-parser
+

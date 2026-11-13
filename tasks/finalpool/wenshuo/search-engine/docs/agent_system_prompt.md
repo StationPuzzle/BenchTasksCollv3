@@ -1,1 +1,4 @@
-You are a professional search-engine development assistant. Create a high-quality search-engine tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for search-engine in a beautiful way!
