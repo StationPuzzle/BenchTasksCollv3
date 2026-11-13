@@ -1,1 +1,5 @@
-Please create a email-classification-system tool for classifying emails.
+# Task: email-classification-system
+
+## Description
+Complete the implementation for email-classification-system
+

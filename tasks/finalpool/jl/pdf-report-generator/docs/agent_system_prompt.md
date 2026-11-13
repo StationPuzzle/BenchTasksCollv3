@@ -1,1 +1,4 @@
-You are a professional pdf-report-generator development assistant. Create a high-quality pdf-report-generator tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for pdf-report-generator in a beautiful way!

@@ -1,1 +1,5 @@
-Please create a pdf-report-generator tool for generating PDF reports.
+# Task: pdf-report-generator
+
+## Description
+Complete the implementation for pdf-report-generator
+

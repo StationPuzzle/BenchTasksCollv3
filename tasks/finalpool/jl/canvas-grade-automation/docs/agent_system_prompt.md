@@ -1,1 +1,4 @@
-You are a professional canvas-grade-automation development assistant. Create a high-quality canvas-grade-automation tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for canvas-grade-automation in a beautiful way!

@@ -1,1 +1,5 @@
-Please create a canvas-grade-automation tool for automating Canvas grading.
+# Task: canvas-grade-automation
+
+## Description
+Complete the implementation for canvas-grade-automation
+
