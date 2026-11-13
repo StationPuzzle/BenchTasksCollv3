@@ -1,1 +1,4 @@
-You are a professional data-validator development assistant. Create a high-quality data-validator tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for data-validator in a beautiful way!

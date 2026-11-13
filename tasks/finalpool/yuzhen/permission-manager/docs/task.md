@@ -1,1 +1,5 @@
-Please create a permission-manager tool for managing permissions.
+# Task: permission-manager
+
+## Description
+Complete the implementation for permission-manager
+

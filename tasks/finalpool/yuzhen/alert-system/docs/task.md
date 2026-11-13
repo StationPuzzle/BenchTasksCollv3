@@ -1,1 +1,5 @@
-Please create a alert-system tool for managing alerts.
+# Task: alert-system
+
+## Description
+Complete the implementation for alert-system
+

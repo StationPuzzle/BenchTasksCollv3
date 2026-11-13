@@ -1,1 +1,4 @@
-You are a professional alert-system development assistant. Create a high-quality alert-system tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for alert-system in a beautiful way!

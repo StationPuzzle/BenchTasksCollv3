@@ -1,1 +1,4 @@
-You are a professional permission-manager development assistant. Create a high-quality permission-manager tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for permission-manager in a beautiful way!
