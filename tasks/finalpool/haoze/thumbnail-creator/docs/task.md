@@ -1,1 +1,5 @@
-Please create a thumbnail-creator tool for creating thumbnails.
+# Task: thumbnail-creator
+
+## Description
+Complete the implementation for thumbnail-creator
+

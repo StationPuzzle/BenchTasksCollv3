@@ -1,1 +1,5 @@
-Please create a video-trimmer tool for trimming videos.
+# Task: video-trimmer
+
+## Description
+Complete the implementation for video-trimmer
+

@@ -1,1 +1,4 @@
-You are a professional thumbnail-creator development assistant. Create a high-quality thumbnail-creator tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for thumbnail-creator in a beautiful way!

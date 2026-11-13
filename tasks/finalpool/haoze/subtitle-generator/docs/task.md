@@ -1,1 +1,5 @@
-Please create a subtitle-generator tool for generating subtitles.
+# Task: subtitle-generator
+
+## Description
+Complete the implementation for subtitle-generator
+

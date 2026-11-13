@@ -1,1 +1,4 @@
-You are a professional subtitle-generator development assistant. Create a high-quality subtitle-generator tool.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for subtitle-generator in a beautiful way!
